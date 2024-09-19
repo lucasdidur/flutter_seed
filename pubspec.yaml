@@ -33,7 +33,7 @@ dependencies:
   json_annotation: ^4.9.0
   mask_text_input_formatter: ^2.9.0
   package_info_plus: ^8.0.0
-  purchases_flutter: ^6.29.0
+  purchases_flutter: ^8.1.2
   shared_preferences: ^2.2.3
   sign_in_with_apple: ^6.1.0
   supabase_flutter: ^2.5.3
